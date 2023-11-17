@@ -1,0 +1,14 @@
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\bin\Debug\net8.0\GOSTCrypto.exe
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\bin\Debug\net8.0\GOSTCrypto.deps.json
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\bin\Debug\net8.0\GOSTCrypto.runtimeconfig.json
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\bin\Debug\net8.0\GOSTCrypto.dll
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\bin\Debug\net8.0\GOSTCrypto.pdb
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\obj\Debug\net8.0\GOSTCrypto.GeneratedMSBuildEditorConfig.editorconfig
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\obj\Debug\net8.0\GOSTCrypto.AssemblyInfoInputs.cache
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\obj\Debug\net8.0\GOSTCrypto.AssemblyInfo.cs
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\obj\Debug\net8.0\GOSTCrypto.csproj.CoreCompileInputs.cache
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\obj\Debug\net8.0\GOSTCrypto.dll
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\obj\Debug\net8.0\refint\GOSTCrypto.dll
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\obj\Debug\net8.0\GOSTCrypto.pdb
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\obj\Debug\net8.0\GOSTCrypto.genruntimeconfig.cache
+E:\PAVEL\UNI\4_КУРС\БИС\GOSTCrypto\GOSTCrypto\obj\Debug\net8.0\ref\GOSTCrypto.dll
